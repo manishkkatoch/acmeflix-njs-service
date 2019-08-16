@@ -1,0 +1,122 @@
+{
+    "1msRby": {
+        "name": "The Shining",
+        "year": 1980,
+        "director": "Stanley Kuberick",
+        "rating": 8.4,
+        "ratingEnabled": false,
+        "id": "1msRby",
+        "synopsis": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+        "stock": 10
+    },
+    "pLDhp": {
+        "id": "pLDhp",
+        "name": "Fight Club",
+        "year": 1999,
+        "director": "David Fincher",
+        "rating": 8.8,
+        "ratingEnabled": true,
+        "synopsis": "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.",
+        "stock": 0
+    },
+    "DdrvJ": {
+        "name": "Reservior Dogs",
+        "year": 1992,
+        "director": "Quentin Taratino",
+        "rating": 8.3,
+        "ratingEnabled": false,
+        "id": "DdrvJ",
+        "synopsis": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "stock": 3
+    },
+    "iBZQ9": {
+        "name": "Inception",
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "rating": 8.8,
+        "ratingEnabled": true,
+        "id": "iBZQ9",
+        "synopsis": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
+        "stock": 50
+    },
+    "L3G3N": {
+        "name": "Gunda",
+        "year": 1998,
+        "director": "Kanti Shah",
+        "rating": 7.4,
+        "ratingEnabled": true,
+        "id": "L3G3N",
+        "synopsis": "When a coolie's family is murdered by a group of gangsters and politicians, he swears revenge on them.",
+        "stock": 100
+    },
+    "R0S3B": {
+        "name": "Citizen Kane",
+        "year": 1941,
+        "director": "Orson Welles",
+        "rating": 8.3,
+        "ratingEnabled": false,
+        "id": "R0S3B",
+        "synopsis": "Following the death of publishing tycoon, Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",
+        "stock": 90
+    },
+    "T21DS": {
+        "name": "Ready Player One",
+        "year": 2018,
+        "director": "Steven Spielberg",
+        "rating": 7.5,
+        "ratingEnabled": true,
+        "id": "T21DS",
+        "synopsis": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+        "stock": 10
+    },
+    "TGR8D": {
+        "name": "The Great Dictator",
+        "year": 1940,
+        "director": "Charlie Chaplin",
+        "rating": 8.5,
+        "ratingEnabled": true,
+        "id": "TGR8D",
+        "synopsis": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "stock": 5
+    },
+    "TUSP8": {
+        "name": "The Great Dictator",
+        "year": 1995,
+        "director": "Bryan Singer",
+        "rating": 8.6,
+        "ratingEnabled": true,
+        "id": "TUSP8",
+        "synopsis": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+        "stock": 100
+    },
+    "10CFL": {
+        "name": "10 Cloverfield Lane",
+        "year": 2016,
+        "director": "Dan Trachtenberg",
+        "rating": 7.2,
+        "ratingEnabled": true,
+        "id": "10CFL",
+        "synopsis": "After getting in a car accident, a woman is held in a shelter with two men, who claim the outside world is affected by a widespread chemical attack.",
+        "stock": 100
+    },
+    "JBSR3": {
+        "name": "Spectre",
+        "year": 2015,
+        "director": "Sam Mendes",
+        "rating": 6.8,
+        "ratingEnabled": true,
+        "id": "JBSR3",
+        "synopsis": "A cryptic message from 007's past sends him pitted against a mysterious terrorist organization called Spectre, and learns of its involvement in previous events of his most dangerous missions.",
+        "stock": 100
+    },
+    "TSSR3": {
+        "name": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont",
+        "rating": 9.3,
+        "ratingEnabled": true,
+        "id": "TSSR3",
+        "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "stock": 100
+    }
+}

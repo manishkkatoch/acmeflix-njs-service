@@ -1,0 +1,30 @@
+{
+  "name": "acmeflix",
+  "version": "1.0.0",
+  "description": "Dummy lightweight API service simulating movie rental store to demostrate REST and Mobile Apps",
+  "scripts": {
+    "clean": "rm -rf ./build",
+    "build": "npm run clean && tsc && cp -r ./src/db ./build && cp -r ./resources ./build",
+    "start": "nodemon ./build/server.js"
+  },
+  "keywords": [
+    "rest",
+    "hateoas",
+    "api",
+    "typescript",
+    "express"
+  ],
+  "author": "Manish Katoch",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.0.39",
+    "@types/node": "^8.0.51",
+    "typescript": "^2.6.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "trivialdb": "^2.3.0"
+  }
+}
