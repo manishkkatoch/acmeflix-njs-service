@@ -22,8 +22,8 @@
     "typescript": "^2.6.1"
   },
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "nodemon": "^1.12.1",
     "trivialdb": "^2.3.0"
   }
