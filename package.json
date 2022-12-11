@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "nodemon": "^1.12.1",
     "trivialdb": "^2.3.0"
   }
